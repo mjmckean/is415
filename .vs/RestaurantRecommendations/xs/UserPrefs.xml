@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{117ABDA0-25BB-45E1-A609-92BBE6BA41D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestaurantRecommendations/index.html">
+    <Files>
+      <File FileName="RestaurantRecommendations/index.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RestaurantRecommendations PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
